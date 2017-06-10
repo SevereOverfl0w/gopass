@@ -328,6 +328,12 @@ $ wget https://www.justwatch.com/gopass/releases/1.0.2/gopass_1.0.2_amd64.deb
 $ sudo dpkg -i gopass_1.0.2_amd64.deb
 ```
 
+#### Void Linux
+
+```bash
+$ xbps-install -S gopass
+```
+
 ### Download
 
 Please visit https://www.justwatch.com/gopass/releases/1.0.2/ for a list of binary releases.
